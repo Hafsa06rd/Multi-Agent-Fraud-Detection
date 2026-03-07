@@ -207,4 +207,9 @@ Contributions are welcome. Feel free to open an issue or submit a pull request f
 
 ##  License
 
-This project is released for educational and research purposes.
+> This project is released for educational and research purposes.
+-----
+## Note from me :)
+> This project was developed as part of an applied research effort in intelligent systems and financial security, combining multi-agent architecture with machine learning to address real-world fraud detection challenges.
+Contributions, suggestions, and feedback are welcome, feel free to explore !!
+----
